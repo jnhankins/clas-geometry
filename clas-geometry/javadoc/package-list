@@ -1,0 +1,13 @@
+org.jlab.detector.base
+org.jlab.detector.cnd
+org.jlab.detector.dc
+org.jlab.detector.dch
+org.jlab.detector.ec
+org.jlab.detector.ft
+org.jlab.detector.ftof
+org.jlab.detector.impl
+org.jlab.geom
+org.jlab.geom.detector
+org.jlab.geom.ui
+org.jlab.geom.utils
+org.jlab.vector

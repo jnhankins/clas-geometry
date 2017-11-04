@@ -1,0 +1,12 @@
+org.jlab.geom
+org.jlab.geom.abs
+org.jlab.geom.base
+org.jlab.geom.component
+org.jlab.geom.detector.bst
+org.jlab.geom.detector.cnd
+org.jlab.geom.detector.dc
+org.jlab.geom.detector.ec
+org.jlab.geom.detector.ft
+org.jlab.geom.detector.ftof
+org.jlab.geom.gui
+org.jlab.geom.prim
