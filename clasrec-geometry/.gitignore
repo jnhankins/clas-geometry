@@ -1,0 +1,21 @@
+# Sublime Files
+*.sublime-workspace
+*.sublime-project
+
+# Virtual Machine Crash Logs
+hs_err_pid*
+
+# NetBeans folders
+**/nbproject/private/
+**/build/
+**/dist/
+**/bin/
+
+# Build Files
+*.class
+
+# Temprorary Files
+*~
+/nbproject/private/
+/build/
+/dist/
